@@ -9,6 +9,7 @@ Simple.css is a bare-boned responsive CSS _"framework"_ made to be customized. N
 ***
 
 Check out Simple.css on its own website, learn what it does and how to use it: [simplecss.algorithm.dk](http://simplecss.algorithm.dk).
+
 You can also just clone this repo and open `index.html` in your browser.
 
 #### Author
